@@ -1,2 +1,0 @@
-# cadastro
-site de cadastro
